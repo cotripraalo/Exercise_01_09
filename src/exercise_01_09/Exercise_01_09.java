@@ -4,6 +4,7 @@ perimeter of a rectangle with the width of 4.5 and height of 7.9 using the follo
 formula:
 						area = width * height
 */
+
 package exercise_01_09;
 public class Exercise_01_09 {
     public static void main(String[] args) {
